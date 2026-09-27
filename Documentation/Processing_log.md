@@ -3,7 +3,7 @@
 **Dataset:** Macroeconomic Indicators for Sub-Saharan Africa, 2006–2025 (WDI Extract)
 **Group:** Group 1 — Macroeconomic time-series data (SE/DMD/25/0001 | SE/DMD/25/0002 | SE/DMD/25/0003 |SE/DMD/25/0004)
 **Version:** 1.0
-**Date:** 29 September 2026
+**Date:** 26 September 2026
 
 ---
 
