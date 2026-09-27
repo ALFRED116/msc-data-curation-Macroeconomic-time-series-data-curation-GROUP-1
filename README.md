@@ -9,7 +9,7 @@ A curated longitudinal dataset of eight macroeconomic indicators for 48 World Ba
 
 ## Research/Reuse Purpose
 This dataset supports comparative macroeconomic analysis of sub-Saharan African 
-economies, including growth, inflation, unemployment, and investment dynamics. 
+economies, including growth, inflation, unemployment, and investment dynamics.
 It is suitable for panel data analysis, cross-country comparisons, and 
 development policy research.
 
