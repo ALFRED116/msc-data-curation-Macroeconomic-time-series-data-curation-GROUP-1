@@ -1,4 +1,4 @@
-# msc-data-curation-Macroeconomic-time-series-data-GROUP-1
+# msc-data-curation-Macroeconomic-time-series-data-curation-GROUP-1
 A curated longitudinal dataset of eight macroeconomic indicators for 48 World Bank-classified sub-Saharan African countries over 20 years (2006 - 2025), sourced from the World Bank's World Development Indicators (WDI). The dataset supports cross-country and time-series analysis of growth, inflation, employment, trade, investment, and fiscal policy.
 
 ## Group Members
@@ -111,7 +111,7 @@ Documented monetary variables as constant-price or current-price.
 ## Suggested Citation
 Tetteh, A.A., et al. (2026). Curated Dataset: Macroeconomic Indicators for Sub-Saharan
 Africa, 2006–2025 (WDI Extract)* (Version 1.0) [curated_dataset]. 
-https://github.com/ALFRED116/msc-data-curation-Macroeconomic-time-series-data-GROUP-1
+https://github.com/ALFRED116/msc-data-curation-Macroeconomic-time-series-data-curation-GROUP-1
 
 ## Software Versions
 - Python 2.2.3
