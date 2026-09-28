@@ -41,7 +41,7 @@
       <biblCit>
         Tetteh, A. A., et al. (2026). Macroeconomic Indicators for Sub-Saharan Africa,
         2006–2025 (WDI Extract) (Version 1.0) [Data set]. GitHub.URL
-        https://github.com/ALFRED116/msc-data-curation-Macroeconomic-time-series-data-GROUP-1
+        https://github.com/ALFRED116/msc-data-curation-Macroeconomic-time-series-data-curation-GROUP-1
       </biblCit>
       <holdings>University of Cape Coast, Department of Data Science and Economic Policy</holdings>
     </citation>
@@ -61,7 +61,7 @@
       <titlStmt>
         <titl>Macroeconomic Indicators for Sub-Saharan Africa, 2006–2025 (WDI Extract)</titl>
         <subTitl>Curated longitudinal dataset — Group 1 (Macroeconomic time-series data)</subTitl>
-        <IDNo>msc-data-curation-macroeconomic-ssa-group1</IDNo>
+        <IDNo>msc-data-curation-Macroeconomic-time-series-data-curation-GROUP-1</IDNo>
       </titlStmt>
       <rspStmt>
         <AuthEnty>Nii Okoe Luke Sowah - SE/DMD/25/0001</AuthEnty>
@@ -230,7 +230,7 @@
       <setAvail>
         <accsPlac>
           GitHub repository (tagged release v1.0):
-          https://github.com/ALFRED116/msc-data-curation-macroeconomic-ssa-group1
+          https://github.com/ALFRED116/msc-data-curation-Macroeconomic-time-series-data-curation-GROUP-1
         </accsPlac>
         <origDate>2026-09-29</origDate>
       </setAvail>
