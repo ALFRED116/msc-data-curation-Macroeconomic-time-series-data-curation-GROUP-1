@@ -3,7 +3,7 @@ message: "If you use this repository or it's dataset, please cite it as below."
 
 title: "Macroeconomic Indicators for Sub-Saharan Africa, 2006–2025 (WDI Extract)"
 version: 1.0.0
-doi: 10.5281/zenodo.XXXXXXX
+doi: 
 date-released: 2026-09-26
 license: CC-BY-4.0
 
@@ -24,7 +24,7 @@ authors:
     given names: Tahidu
     Affiliation: University of Cape Coast
 
-repository-code: "https://github.com/ALFRED116/msc-data-curation-Macroeconomic-time-series-data-GROUP-1"
+repository-code: "https://github.com/ALFRED116/msc-data-curation-Macroeconomic-time-series-data-curation-GROUP-1"
 
 keywords:
   - sub-Saharan Africa
